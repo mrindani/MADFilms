@@ -50,3 +50,10 @@ To run this project smoothly, we need to install dependencies for **VLC Media Pl
    - https://www.videolan.org/developers/vlc/doc/doxygen/html/libvlc-module_8c.html
    - https://progur.com/2017/06/how-to-use-vlc-api-in-c.html
    - https://stackoverflow.com/questions/10116783/a-simple-c-program-to-play-mp3-using-libvlc
+   
+   ## Contributors
+
+---
+
+| [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                |
+
